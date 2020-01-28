@@ -9,14 +9,17 @@
 5. A 
 6. D 
 7. C 
-8. D 
-9. D 
-10. B 
-11. D 
-12. D 
-13. D 
-14. D 
-15. C
+8. D
+
+---
+ 
+ 9. D 
+ 10. B 
+ 11. D 
+ 12. D 
+ 13. D 
+ 14. D 
+ 15. C
 
 ---
 
@@ -62,7 +65,6 @@ Embedding the bank into the travel journey
 
 ---
 
-
 a. 9 marks (1 mark for identifying the data, and 2 marks for explaining how it can be used) Types of data and how it can be used
 * Bounce rate. It can be used to provide insights into whether the page is designed attractively, and the content meets the expectations of users.
 * Page views. It can help identify which pages most of your users are viewing
@@ -83,6 +85,9 @@ c. 12 marks (3 marks for each opportunity that was identified correctly) Opportu
 * Shop phase: Provide customers a table with the different air fares offered by different
 providers.
 * Book phase: Offer travel insurance to customers
+
+---
+ 
 * 24/48 hours after booking: Confirmation of his/her bookings if made through the bank
 * 48/24 hours before departure: Offer airport lounge entry at a discount or provide
 him/her. Offer him/her discounts at eateries in the airport
@@ -92,11 +97,13 @@ him/her. Offer him/her discounts at eateries in the airport
 d. 5 marks (2 marks for identifying any lo-fidelity prototyping method and 1 mark for each reason):
 * Pen on paper prototype
 * A low fidelity method works better because the team is still in an initial phase of prototyping. The 2 marks can be awarded for any of the following reasons:
+
+---
+ 
 i. It’s fast. Every sketch should not take you more than a few minutes.
 ii. Low cost. All it takes is 5 minutes of your time.
 iii. Low attachment. It is less likely that you get attached to a prototype that you spent 5 minutes on.
 iv. Obtaining honest feedback. Precisely because it isn’t very polished, your users have less issues criticizing it.
-
 
 ---
 
