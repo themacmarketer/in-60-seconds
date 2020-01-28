@@ -1,4 +1,4 @@
-# CA3 *Practice** Review
+# CA3 *Practice* Review
 
 ---
 
@@ -10,9 +10,6 @@
 6. D 
 7. C 
 8. D 
-
----
-
 9. D 
 10. B 
 11. D 
